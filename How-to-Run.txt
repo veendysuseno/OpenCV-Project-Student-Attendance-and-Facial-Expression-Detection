@@ -1,0 +1,8 @@
+# starts the application in display mode, which captures real-time video from the webcam, 
+# detects faces, recognizes emotions, and displays this information on the video feed.
+
+python emotions.py --mode display
+
+# If you want to train this model or train after making changes to the model, use :
+
+python emotions.py --mode train.

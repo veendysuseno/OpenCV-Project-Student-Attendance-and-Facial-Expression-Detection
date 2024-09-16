@@ -13,24 +13,24 @@
 
 ## Directory Structure / Explanation :
 
-Student_Attendance_and_Facial_Expression_Detection_Project/
-├── data/ # Directory for training and testing data
-│ ├── test/ # Testing data
-│ └── train/ # Training data
-├── dataSet/ # Directory for dataset files
-├── recognizer/ # Directory for face recognition training_data.yml
-├── trainer/ # Directory for face recognition training_data.yml
-├── dataset.py # Script for managing datasets
-├── datatrainner.py # Script for training the model
-├── emotions.py # Script for real-time emotion detection and attendance
-├── face.csv # CSV file, tracks student attendance with facial recognition data and codes from a numbered dataset.
-├── haarcascade_frontalface_default.xml # Haar Cascade XML file for face detection
-├── How-to-Run.txt # provides instructions to run the model for real-time emotion detection or training with the respective commands.
-├── model.h5 # file contains the saved weights of the trained facial expression recognition model.
-├── output[i].avi # file contains a video of the live webcam feed with annotations for detected faces and recognized emotions.
-├── README.md # file contains information about the purpose of the code and instructions on how to use it, as well as how to create it.
-├── requirements.txt # List of required Python packages
-└── time.py # Script for time-related functionalities
+Student_Attendance_and_Facial_Expression_Detection_Project/ <br/>
+├── data/ # Directory for training and testing data. <br/>
+│ ├── test/ # Testing data. <br/>
+│ └── train/ # Training data. <br/>
+├── dataSet/ # Directory for dataset files. <br/>
+├── recognizer/ # Directory for face recognition training_data.yml <br/>
+├── trainer/ # Directory for face recognition training_data.yml <br/>
+├── dataset.py # Script for managing datasets. <br/>
+├── datatrainner.py # Script for training the model. <br/>
+├── emotions.py # Script for real-time emotion detection and attendance. <br/>
+├── face.csv # Tracks student attendance using facial recognition data and numbered dataset codes. <br/>
+├── haarcascade_frontalface_default.xml # Haar Cascade XML file for face detection. <br/>
+├── How-to-Run.txt # rovides commands for real-time emotion detection or model training. <br/> 
+├── model.h5 # file contains the saved weights of the trained facial expression recognition model. <br/>
+├── output[i].avi # Contains a video of the live webcam feed with face and emotion annotations. <br/>
+├── README.md # Contains purpose, usage instructions, and setup information. <br/>
+├── requirements.txt # List of required Python packages. <br/>
+└── time.py # Script for time-related functionalities. <br/>
 
 ## Dependencies
 

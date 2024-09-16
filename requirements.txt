@@ -1,0 +1,7 @@
+numpy
+argparse
+opencv-python
+Pillow
+tensorflow
+matplotlib
+imutils

@@ -157,6 +157,4 @@ This will:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-<br/>
-
 #### @Copyright 2020 | Team-LKTI-PSMURO-GUNDAR

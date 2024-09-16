@@ -25,7 +25,7 @@ Student_Attendance_and_Facial_Expression_Detection_Project/ <br/>
 ├── emotions.py # Script for real-time emotion detection and attendance. <br/>
 ├── face.csv # Tracks student attendance using facial recognition data and numbered dataset codes. <br/>
 ├── haarcascade_frontalface_default.xml # Haar Cascade XML file for face detection. <br/>
-├── How-to-Run.txt # rovides commands for real-time emotion detection or model training. <br/> 
+├── How-to-Run.txt # rovides commands for real-time emotion detection or model training. <br/>
 ├── model.h5 # file contains the saved weights of the trained facial expression recognition model. <br/>
 ├── output[i].avi # Contains a video of the live webcam feed with face and emotion annotations. <br/>
 ├── README.md # Contains purpose, usage instructions, and setup information. <br/>
@@ -156,16 +156,6 @@ This will:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-```css
-
-Feel free to adjust any details according to your project's specifics or preferences.
-
-```
-
-<br/>
-
-# Student-Attendance-and-Facial-Expression-Detection"
 
 <br/>
 
